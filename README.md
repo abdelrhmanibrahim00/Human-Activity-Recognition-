@@ -2,6 +2,8 @@
 Project Overview
 This project aims to classify human activities using data collected from smartphone sensors (accelerometer and gyroscope). The dataset comprises labeled activity data from 30 individuals performing various activities, both static and dynamic.
 
+Training data : https://drive.google.com/file/d/1F9aujfGr_KEdAKiahquDia-6Owp7h9q_/view?usp=sharing
+Test data : https://drive.google.com/file/d/1tBkbeFVxy3UGJWoqfRwK0XQR7NNZsbQj/view?usp=sharing
 The key goal is to design, train, and evaluate machine learning models, including Random Forest, XGBoost, and additional methods, to achieve high accuracy in activity recognition.
 
 Key Objectives
